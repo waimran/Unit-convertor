@@ -32,8 +32,7 @@ To run the **Unit Converter** locally, follow these steps:
 3. Run the following command:
 
    ```bash
-   streamlit run unit_converter.py
-   ```
+   streamlit run app.py
 
 4. The app will launch in your default web browser.
 
